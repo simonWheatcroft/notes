@@ -1,2 +1,5 @@
-# notes
-a repo to keep all my notes
+        # notes
+h       a re    po to keep all my notes. i added this line here.
+
+other info here.
+        
